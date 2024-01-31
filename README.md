@@ -36,6 +36,16 @@ While the project is still under construction, you can preview the latest update
 ![Screenshot 2024-01-30 at 09 55 18](https://github.com/leilaabdulahad/ecommerce-final-project/assets/127239955/403559ff-cddb-4a23-9228-a17428a5622b)
 
 ## Installation
-This is how you can install this repository. Follow these simple steps. 
+Follow these steps to install and run the project
+1. Clone the repository
+git clone https://github.com/leilaabdulahad/react-project.git
+2. Navigate into the cloned repository 
+cd <Your projects name>
+3. Install the project dependencies
+npm install
+4. Install Vite
+npm install -g create-vite
+5. To start the development server
+npm run dev
 
 ## Testing 
