@@ -37,19 +37,15 @@ While the project is still under construction, you can preview the latest update
 
 ## Installation
 Follow these steps to install and run the project
-1. Clone the repository
+1. Clone the repository:
 git clone https://github.com/leilaabdulahad/react-project.git
-2. Navigate into the cloned repository 
-
-cd Your projects name
-3. Install the project dependencies
-
+2. Navigate into the cloned repository:
+cd <Your projects name>
+3. Install project dependencies:
 npm install
-4. Install Vite
-
+4. Install Vite:
 npm install -g create-vite
-5. To start the development server
-
+5. To start the development server:
 npm run dev
 
 ## Testing 
