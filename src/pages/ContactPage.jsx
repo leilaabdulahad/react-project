@@ -1,6 +1,5 @@
 import React, { useState } from 'react';
 import DetailPageHero from '../components/DetailpageHero';
-// import contactImage from '../assets/contact2.jpg'
 
 
 const ContactForm = () => {
@@ -30,7 +29,6 @@ const ContactForm = () => {
       if (name === 'email' && !/^(([^<>()[\]\\.,;:\s@\"]+(\.[^<>()[\]\\.,;:\s@\"]+)*)|(\".+\"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/.test(value)) {
         errorMessage = 'Ange en giltig e-postadress.';
       }
-
       // Check if the name is at least 2 characters long
       if (name === 'name' && value.trim().length < 2) {
         errorMessage = 'Namnet måste vara minst 2 bokstäver långt.';
@@ -99,9 +97,6 @@ const ContactForm = () => {
   return (
     <>
     <DetailPageHero />
-    {/* <div className=''>
-      <img className='contact-image' src={contactImage} alt="" />
-    </div> */}
     <div className='contact-container d-flex justify-content-center'>
       <div className='col-12 col-md-6'>
         <div className="border p-4 rounded m-4">
@@ -147,7 +142,7 @@ const ContactForm = () => {
 
             <button type="submit" className="btn btn-primary">Skicka</button>
 
-            {submissionMessage && <div className="mt-3 text-danger">{submissionMessage}</div>}
+            {submissionMessage && <div className="mt-3 text-success">{submissionMessage}</div>}
           </form>
         </div>
       </div>

@@ -22,7 +22,7 @@ For state management, Redux Toolkit has been selected to efficiently handle the 
 Currently, the project is in an active development phase, with ongoing improvements and features being added. It is a dynamic endeavor that I plan to dedicate time to in the upcoming months, ensuring its growth and refinement. Stay tuned for exciting updates as the project unfolds and matures.
 
 ## Built with
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,vite,bootstrap,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,vite,bootstrap,redux,css)](https://skillicons.dev)
 
 ## Live demo
 While the project is still under construction, you can preview the latest updates through a series of images showcasing the evolving webpage. Key functionalities, including registration, login, and payments, have been implemented and are operational.
@@ -40,7 +40,7 @@ Follow these steps to install and run the project
 1. Clone the repository:
 git clone https://github.com/leilaabdulahad/react-project.git
 2. Navigate into the cloned repository:
-cd <Your projects name>
+cd YOUR PROJECTS NAME
 3. Install project dependencies:
 npm install
 4. Install Vite:
@@ -48,4 +48,5 @@ npm install -g create-vite
 5. To start the development server:
 npm run dev
 
-## Testing 
+## Acknowledgments
+Products are borrowed from www.komplett.se
