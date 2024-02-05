@@ -22,7 +22,7 @@ For state management, Redux Toolkit has been selected to efficiently handle the 
 Currently, the project is in an active development phase, with ongoing improvements and features being added. It is a dynamic endeavor that I plan to dedicate time to in the upcoming months, ensuring its growth and refinement. Stay tuned for exciting updates as the project unfolds and matures.
 
 ## Built with
-[![My Skills](https://skillicons.dev/icons?i=react,javascript,vite,bootstrap,redux,css)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,javascript,vite,redux,bootstrap,css)](https://skillicons.dev)
 
 ## Live demo
 While the project is still under construction, you can preview the latest updates through a series of images showcasing the evolving webpage. Key functionalities, including registration, login, and payments, have been implemented and are operational.
@@ -49,4 +49,4 @@ npm install -g create-vite
 npm run dev
 
 ## Acknowledgments
-Products are borrowed from www.komplett.se
+Products are borrowed from www.komplett.se This site is not intended for commercial use.
