@@ -1,4 +1,4 @@
-# E-commerce project in React + Vite
+# E-commerce project in React
 
 ## Table of Contents
 - [About the Project](#about-the-project)
@@ -33,12 +33,10 @@ Follow these steps to install and run the project
 1. Clone the repository:
 git clone https://github.com/leilaabdulahad/react-project.git
 2. Navigate into the cloned repository:
-cd YOUR PROJECTS NAME
+cd 'your file name'
 3. Install project dependencies:
 npm install
-4. Install Vite:
-npm install -g create-vite
-5. To start the development server:
+4. To start the development server:
 npm run dev
 
 ## Acknowledgments
